@@ -68,11 +68,6 @@ T	Back to Stock View
 ESC	Exit
 🚀 Getting Started
 
-Clone the repository:
-
-git clone https://github.com/yourusername/PSX-Trading-Simulator.git
-cd PSX-Trading-Simulator
-
 
 Install SFML (Graphics, Window, System).
 
